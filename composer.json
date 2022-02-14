@@ -1,0 +1,17 @@
+{
+    "name": "sushu/test-app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Александр Искрицкий",
+            "email": "sushu1998@mail.ru"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6"
+    }
+}
